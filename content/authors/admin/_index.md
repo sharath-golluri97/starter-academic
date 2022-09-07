@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sharath Golluri
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role:First Year Master’s Student of Robotics (AI Track)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: SUNY Buffalo
+  url: https://www.buffalo.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
